@@ -1,1 +1,1 @@
-[# rsschool-cv](https://nowaylifer.github.io/rsschool-cv/cv)
+# [CV Demo](https://nowaylifer.github.io/rsschool-cv/cv)
