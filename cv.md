@@ -51,6 +51,12 @@ function nthFibo(n) {
 
 ---
 
+## **Education:**
+
+- RS School JavaScript/Frontend 2023Q1 (in progress)
+
+---
+
 ## **Languages:**
 
 - Russian
